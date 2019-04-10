@@ -4,11 +4,11 @@
 ## Course Pre-Reqs
 The more detailed steps covered in the install/setup section will be covered in the activities. Please just install these tools prior:
 
-*Create a GitHub account: https://github.com 
-*Install Git 2.2.1: https://git-scm.com/downloads
-*Install Python 2.7: https://www.python.org/downloads/release/python-373/ 
-      *Windows: Windows x86-64 MSI installer 
-      *Mac: macOS 64-bit installer 
+* Create a GitHub account: https://github.com 
+* Install Git 2.2.1: https://git-scm.com/downloads
+* Install Python 2.7: https://www.python.org/downloads/release/python-373/ 
+     * Windows: Windows x86-64 MSI installer 
+     * Mac: macOS 64-bit installer 
 
 ## Tools to install / setup
 Follow these steps in order.
