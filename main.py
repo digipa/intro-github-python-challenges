@@ -5,7 +5,7 @@ from faker import Faker
 fake = Faker()
 # ==================================
 #import dice roll function below:
-import dice_sim as ds
+import
 
 
 def start():
